@@ -1,0 +1,24 @@
+.container-fluid{
+    width: 100% !important;
+    background-color:gray;
+
+}
+.navbar{
+    color: rebeccapurple !important;  
+
+
+}
+.fa-home{
+font-size: 40px !important;
+color:blue;
+margin-right: 10px;
+margin-left: 40px;
+padding: 6px;
+}
+.bg{
+    background-color: grey;
+}
+.carousel-item{
+    height: 602px !important;
+    width:190px;
+}
